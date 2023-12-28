@@ -1,8 +1,8 @@
 streamlit==1.29.0
-pandas==2.1.4
+pandas==1.29.0
 numpy==1.21.2
-scikit-learn==1.2.2
-matplotlib==3.8.0
-folium==0.15.1
+scikit-learn==1.1.5
+matplotlib==1.1.5
+folium==1.29.0
 streamlit-option-menu==0.3.2
 streamlit-folium==0.17.4
