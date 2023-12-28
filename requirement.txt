@@ -5,3 +5,4 @@ scikit-learn
 matplotlib
 folium==0.12.1
 streamlit_folium
+streamlit_option_menu
